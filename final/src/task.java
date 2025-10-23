@@ -1,16 +1,7 @@
-/**
- * 
- */
 
-/**
- * @author Ayesha
- *
- */
 class task {
 
-	/**
-	 * @param args
-	 */
+
 	public static void main(String[] args) {
 		
 			System.out.println("ayesha tariq");
