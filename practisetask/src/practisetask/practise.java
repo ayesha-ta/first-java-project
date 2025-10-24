@@ -1,5 +1,0 @@
-
-package practisetask;
-
-class practise {
-	
